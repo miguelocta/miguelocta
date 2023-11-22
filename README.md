@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelocta
 - 🌱 I’m currently learning prompt enginnering. Soooo exciting!
 - 💞️ I’m looking to collaborate on translations to Spanish
-- 📫 miguelgmchie@gmail.com
+- 📫 miguelgmchgie@gmail.com
 
 <!---
 miguelocta/miguelocta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
